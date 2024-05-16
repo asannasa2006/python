@@ -24,3 +24,16 @@ print (pais, "ganhou", quantidade, "títulos mundiais.")
 # pode printar strings sem declararas como variaveis
 
 
+#Aula 2
+
+paiss = "Brasil"
+paiss = 644
+# redefini o valor da variável de Brasil para 644
+
+type(paiss)
+# <class 'int'>
+
+paiss = 7.9
+
+type(paiss)
+#class 'float'>
