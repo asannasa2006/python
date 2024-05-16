@@ -1,0 +1,1 @@
+print ("Olá. Bem vindo ao jogo de Adivinhação!")
