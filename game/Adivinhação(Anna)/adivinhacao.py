@@ -4,10 +4,10 @@ print("**************************************")
 
 numero_secreto1 = 42
 
-chute = input("Digite um número: ", chute_str)
-chute = int(chute_str)
+chute = input("Digite um número: ",)
+chute = int(chute)
 
-print( " Você propos o numero", chute )
+print( "Você propos o numero: ", chute )
 
 if (numero_secreto1 == chute):
     print("E você acerto, Parabéns!")
